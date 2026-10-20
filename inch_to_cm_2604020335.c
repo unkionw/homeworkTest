@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 int main()
 {
     // 1英寸 = 2.54厘米，保留2位小数，逐行printf，不用循环
